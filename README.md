@@ -568,3 +568,7 @@ The evaluation therefore highlights the importance of:
 
 Future work includes evaluating the framework with a real LLM, expanding the holdout dataset, adding more diverse attack categories, and testing additional semantic classifiers.
 
+## Contributors
+
+- Karuna Shah
+- Ishapageni
